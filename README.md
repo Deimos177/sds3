@@ -1,6 +1,6 @@
 # ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React - SDS 3.0
 
-<h4 align="center">Dashboard Vendas</h4>
+<h4 align="center">Sales Dashboard</h4>
 <p align="center">
   <img  src="./frontend/src/assets/img/ds-vendas.png" width="700">
 </p>
