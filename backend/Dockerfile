@@ -1,4 +1,4 @@
 FROM openjdk
-ADD target/sds-docker.jar sds-docker.jar
+ADD target/sds3.jar sds3.jar
 EXPOSE 8080
-ENTRYPOINT ["java", "-jar", "sds-docker.jar"]
+ENTRYPOINT ["java", "-jar", "sds3.jar"]

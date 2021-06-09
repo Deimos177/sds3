@@ -59,6 +59,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>sds3</finalName>
 	</build>
 
 </project>
