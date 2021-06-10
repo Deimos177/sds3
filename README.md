@@ -12,7 +12,7 @@ The following technologies was used to build this application:
 - Spring boot
 - java 11
 - ⚛️ React
-- <img src="https://img.icons8.com/color/10/000000/typescript.png"/> TypeScript
+- <img src="https://img.icons8.com/color/25/000000/typescript.png"/> TypeScript
 - Docker
 
 ## 🎲 Installation
