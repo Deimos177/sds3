@@ -35,8 +35,9 @@ http://localhost:3000/
 ```
 
 - To install dependencies from backend:
+
 ```
-$ maven 
+$ maven
 
 $ java 11 or greater
 
@@ -49,9 +50,10 @@ $ cd backend
 $ mvn spring-boot:run
 ```
 
-## <img src="https://img.icons8.com/color/50/000000/docker.png"/> Run application on containers docker 
+## <img src="https://img.icons8.com/color/50/000000/docker.png"/> Run application on containers docker
 
 To execute the backend of project on docker container, please, follow the steps below.
+
 ```
 $ cd backend
 
@@ -69,6 +71,7 @@ $ docker run -d --name sds3-backend -p 8080:8080 sds3-backend
 ```
 
 To execute the frontend of project on docker container, please, follow the steps below.
+
 ```
 $ cd frontend
 
@@ -81,6 +84,15 @@ Create docker container
 $ docker container run -d --name sds3-frontend -p 3000:3000 sds3-frontend
 ```
 
-## ✅ Author
+## <img src="https://img.icons8.com/office/25/000000/communication.png"/> Backend endpoints:
+
+## <img src="https://img.icons8.com/officel/16/000000/checked--v2.png"/> Author
+
+<h4>/sales</h4>
+
+- /amount-by-seller
+- /success-by-seller
+
+<h4>/sellers</h4>
 
 **Bruce Vieira**
