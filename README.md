@@ -86,13 +86,13 @@ $ docker container run -d --name sds3-frontend -p 3000:3000 sds3-frontend
 
 ## <img src="https://img.icons8.com/office/25/000000/communication.png"/> Backend endpoints:
 
-## <img src="https://img.icons8.com/officel/16/000000/checked--v2.png"/> Author
-
 <h4>/sales</h4>
 
 - /amount-by-seller
 - /success-by-seller
 
 <h4>/sellers</h4>
+
+## <img src="https://img.icons8.com/cute-clipart/16/000000/checked.png"/> Author
 
 **Bruce Vieira**
