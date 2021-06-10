@@ -11,8 +11,8 @@ The following technologies was used to build this application:
 
 - Spring boot
 - java 11
-- React
-- TypeScript
+- ⚛️ React
+- <img src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript
 - Docker
 
 ## 🎲 Installation
@@ -31,7 +31,7 @@ $ yarn
 $ yarn start
 
 - Open your browser on:
-http://localhost:3333/
+http://localhost:3000/
 ```
 
 - To install dependencies from backend:
@@ -49,7 +49,7 @@ $ cd backend
 $ mvn spring-boot:run
 ```
 
-To execute the project on docker container, please, follow the steps below.
+To execute the backend of project on docker container, please, follow the steps below.
 ```
 $ cd backend
 
@@ -59,11 +59,24 @@ $ mvn clean package
 
 Create docker image
 
-$ docker image build -f Dockerfile -t sds3 .
+$ docker image build -f Dockerfile -t sds3-backend .
 
 Create docker container
 
-$ docker run -d --name sds3-backend -p 8080:8080 sds3
+$ docker run -d --name sds3-backend -p 8080:8080 sds3-backend
+```
+
+To execute the frontend of project on docker container, please, follow the steps below.
+```
+$ cd frontend
+
+Create docker image
+
+$ docker image build -f Dockerfile -t sds3-frontend .
+
+Create docker container
+
+$ docker container run -d --name sds3-frontend -p 3000:3000 sds3-frontend
 ```
 
 ## ✅ Author
