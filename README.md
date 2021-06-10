@@ -11,7 +11,7 @@ The following technologies was used to build this application:
 
 - <img src="https://img.icons8.com/color/25/000000/spring-logo.png"/> Spring boot
 - <img src="https://img.icons8.com/color/25/000000/java-coffee-cup-logo.png"/> java 11
-- <img src="https://img.icons8.com/cute-clipart/25/000000/react-native.png"/> React
+- <img src="https://img.icons8.com/color/25/000000/react-native.png"/> React
 - <img src="https://img.icons8.com/color/25/000000/typescript.png"/> TypeScript
 - <img src="https://img.icons8.com/fluent/25/000000/docker.png"/> Docker
 
