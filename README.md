@@ -48,8 +48,9 @@ $ cd backend
 
 $ mvn spring-boot:run
 ```
-
-## Run application on containers docker <img src="https://img.icons8.com/fluent/50/000000/docker.png"/>
+<div>
+  <img src="https://img.icons8.com/fluent/50/000000/docker.png"/> ## Run application on containers docker 
+</div>
 
 To execute the backend of project on docker container, please, follow the steps below.
 ```
