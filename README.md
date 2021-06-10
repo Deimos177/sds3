@@ -93,6 +93,6 @@ $ docker container run -d --name sds3-frontend -p 3000:3000 sds3-frontend
 
 <h4>/sellers</h4>
 
-## <img src="https://img.icons8.com/cute-clipart/16/000000/checked.png"/> Author
+## <img src="https://img.icons8.com/plasticine/16/000000/checked--v1.png"/> Author
 
 **Bruce Vieira**
